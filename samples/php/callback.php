@@ -8,7 +8,7 @@
 // Please make sure to REPLACE the value of VERIFY_TOKEN 'abc' with 
 // your own secret string. This is the value to pass to Facebook 
 //  when adding/modifying this subscription.
-define('VERIFY_TOKEN', 'abc');                                    
+define('VERIFY_TOKEN', 'abc123');                                    
 $method = $_SERVER['REQUEST_METHOD'];                             
    
 // In PHP, dots and spaces in query parameter names are converted to 
